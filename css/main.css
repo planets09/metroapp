@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Teko|Titillium+Web');
 
 * {
 	border: 0;
@@ -82,7 +81,7 @@ li.active a {
 	border-bottom: 3px solid #fff;
 }
 
-.sitenav a:hover {
+.sitenav a:visited {
 	border-bottom: 3px solid #fff;
 	cursor: pointer;
 }
